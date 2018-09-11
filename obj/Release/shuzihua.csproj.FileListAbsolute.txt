@@ -1,0 +1,2 @@
+F:\王东伟\数字化\shuzihua\shuzihua\shuzihua\bin\Release\shuzihua.exe.config
+F:\王东伟\数字化\shuzihua\shuzihua\shuzihua\obj\Release\shuzihua.csproj.ResolveComReference.cache
